@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badal Jha</h1>
-<h3 align="center">A passionate frontend developer and Machine learning enthusiasthusiast from India</h3>
+<h3 align="center">A passionate frontend developer and Machine learning enthusiast from India</h3>
 
 - 🔭 I’m currently working on **My Personal Project**
 
