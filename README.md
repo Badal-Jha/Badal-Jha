@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, competitive programming and Data structure and Algorithms.**
 
-- ⚡ Fun fact **One thing I can not live without is Tea.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
