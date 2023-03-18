@@ -1,5 +1,5 @@
 
-<h3 align="center">I am Badal Jha</h3>
+<h3 align="center">I Am Badal Jha</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and software development.
