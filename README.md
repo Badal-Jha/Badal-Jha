@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and software development.
 - 🌱 &nbsp; Enthusiast in Backend development.
-- 💬 &nbsp; Ask me about **Nodejs,Java, Data structure and Algorithms.**
+- 💬 &nbsp; Ask me about **Java,Javascript, Data structure and Algorithms.**
 - ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3 align="left">Connect with me:</h3>
